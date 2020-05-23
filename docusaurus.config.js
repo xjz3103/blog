@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'JACK小桔子',
+  tagline: '一个分享软件应用/插件/实用技巧的网站',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -8,19 +8,19 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'JACK小桔子',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.jpg',
       },
       links: [
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: '文档',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: '博客', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -32,45 +32,37 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '电话',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: '13413293886',
             },
           ],
         },
         {
-          title: 'Community',
+          title: '电子邮箱',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: '1140535362@qq.com',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'xjz3103@outlook.com',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'xjz3103@gmail.com',
             },
           ],
         },
         {
-          title: 'More',
+          title: '联系我',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'bilibili',
+              href: 'https://space.bilibili.com/481261311',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/xjz3103',
             },
           ],
         },

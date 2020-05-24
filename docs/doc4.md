@@ -88,9 +88,9 @@ sidebar_label: 样式指南
 ---
 
 ## 链接
-[我是内联式链接](https://www.google.com)
+[我是内联式链接](https://github.com/xjz3103)
 
-[我是一个内联式链接与标题](https://www.google.com "Google's Homepage")
+[我是一个内联式链接与标题](https://github.com/xjz3103 "github")
 
 [我是参考样式的链接][arbitrary case-insensitive reference text]
 
@@ -105,9 +105,9 @@ sidebar_label: 样式指南
 [链接文本本身]: http://www.reddit.com
 
 ```md
-[我是内联式链接](https://www.google.com)
+[我是内联式链接](https://github.com/xjz3103)
 
-[我是一个内联式链接与标题](https://www.google.com "Google's Homepage")
+[我是一个内联式链接与标题](https://github.com/xjz3103 "github")
 
 [我是参考样式的链接][arbitrary case-insensitive reference text]
 

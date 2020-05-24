@@ -82,6 +82,22 @@ function Home() {
               to={useBaseUrl('blog/')}>
               博客
             </Link>
+            <Link
+              className={classnames(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              href='https://github.com/xjz3103'>
+              GitHub
+            </Link>
+            <Link
+              className={classnames(
+                'button button--outline button--secondary button--lg',
+                styles.getStarted,
+              )}
+              href='https://space.bilibili.com/481261311'>
+              bilibili
+            </Link>
           </div>
         </div>
       </header>

@@ -3,7 +3,7 @@ module.exports = {
   tagline: '一个分享软件应用/插件/实用技巧的网站',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.jpg',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {

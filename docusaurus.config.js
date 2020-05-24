@@ -11,7 +11,7 @@ module.exports = {
       title: 'JACK小桔子',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.jpg',
+        src: 'img/favicon.ico',
       },
       links: [
         {

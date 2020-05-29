@@ -1,5 +1,5 @@
 ---
-id: Plugin1
+id: doc3
 title: 去网页广告
 ---
 

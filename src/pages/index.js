@@ -82,7 +82,9 @@ function Home() {
               to={useBaseUrl('blog/')}>
               博客
             </Link>
-            <Link
+          </div>
+          <div className={styles.buttons}>
+          <Link
               className={classnames(
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,

@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3', 'doc5'],
-    Features: ['mdx'],
+    浏览器插件: ['docx1'],
+    Docusaurus设置及样式设置: ['doc1', 'doc2', 'doc4', 'mdx'],
   },
 };

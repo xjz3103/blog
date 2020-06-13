@@ -13,5 +13,4 @@ export const Highlight = ({children, color}) => ( <span style={{
     }}> {children} </span> );
 
 <Highlight color="#25c2a0">Docusaurus green</Highlight> and <Highlight color="#1877F2">Facebook blue</Highlight> are my favorite colors.
-
-I can write **Markdown** alongside my _JSX_!
+<Highlight color="#26a59a">123</Highlight>

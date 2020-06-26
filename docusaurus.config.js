@@ -72,7 +72,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} JACK小桔子`,
+      copyright: `版权所有 © ${new Date().getFullYear()} JACK小桔子`,
     },
   },
   presets: [

@@ -4,7 +4,7 @@ module.exports = {
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   favicon: "img/logo.jpg",
-  organizationName: "facebook", // Usually your GitHub org/user name.
+  organizationName: "xjz3103", // Usually your GitHub org/user name.
   projectName: "docusaurus", // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -20,7 +20,7 @@ module.exports = {
           label: "文档",
           position: "right",
         },
-        { to: "blog", label: "博客", position: "right" },
+        { to: "blog/", label: "博客", position: "right" },
         {
           href: "https://github.com/xjz3103",
           label: "GitHub",
@@ -72,7 +72,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `版权所有 © ${new Date().getFullYear()} JACK小桔子`,
+      copyright: `Copyright © ${new Date().getFullYear()} JACK小桔子`,
     },
   },
   presets: [

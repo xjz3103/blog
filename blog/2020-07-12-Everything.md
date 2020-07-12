@@ -19,7 +19,7 @@ tags: [Windows,软件,搜索,文件夹,文件]
 
 2. 根据需要安装
 
-![img2](https://s1.ax1x.com/2020/07/12/U1TcW9.md.png "© JACK小桔子")
+![img2](https://s1.ax1x.com/2020/07/12/U1TcW9.png "© JACK小桔子")
 
 ### 使用方法
 1. 初次使用，软件会自动扫描你的所有盘符

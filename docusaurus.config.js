@@ -11,7 +11,7 @@ module.exports = {
     navbar: {
       title: "JACK小桔子",
       logo: {
-        alt: "My Site Logo",
+        alt: "我的LOGO",
         src: "img/favicon.ico",
       },
       links: [
@@ -23,13 +23,18 @@ module.exports = {
         },
         { to: "blog/", label: "博客", position: "right" },
         {
-          href: "https://github.com/xjz3103",
+          href: "https://github.com/xjz3103/blog",
           label: "GitHub",
           position: "right",
         },
         {
           href: "https://space.bilibili.com/481261311",
           label: "bilibili",
+          position: "right",
+        },
+        {
+          href: "https://vipxjz.vercel.app/",
+          label: "破解专区",
           position: "right",
         },
       ],

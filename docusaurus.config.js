@@ -7,6 +7,7 @@ module.exports = {
   organizationName: "xjz3103", // Usually your GitHub org/user name.
   projectName: "docusaurus", // Usually your repo name.
   themeConfig: {
+    themes: ['@docusaurus/theme-classic'],
     navbar: {
       title: "JACK小桔子",
       logo: {

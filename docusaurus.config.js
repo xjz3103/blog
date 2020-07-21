@@ -7,7 +7,10 @@ module.exports = {
   organizationName: "xjz3103", // Usually your GitHub org/user name.
   projectName: "docusaurus", // Usually your repo name.
   themeConfig: {
-    themes: ['@docusaurus/theme-classic'],
+    algolia: {
+      apiKey: 'c5654a935b889d2448008dea6e3dd6e2',
+      indexName: 'xjz3103',
+    },
     navbar: {
       title: "JACK小桔子",
       logo: {

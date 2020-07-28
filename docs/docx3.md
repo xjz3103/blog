@@ -12,7 +12,7 @@ title: 百度网盘高速下载
 * Windows独立安装版：https://vipxjz.vercel.app/blog1
 * Windows大师版：https://vipxjz.vercel.app/blog2
 * Mac独立安装版：https://vipxjz.vercel.app/blog3
-* Mac独立大师版：https://vipxjz.vercel.app/blog4
+* Mac大师版：https://vipxjz.vercel.app/blog4
 
 ### 联系我：
 * QQ：1140535362
